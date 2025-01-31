@@ -28,3 +28,4 @@ var colors = ['#bb0000', '#ffffff'];
     requestAnimationFrame(frame);
   }
 }());
+});
